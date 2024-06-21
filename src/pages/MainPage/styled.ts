@@ -22,3 +22,7 @@ export const Advice = styled.div`
     font-size: 60px;
     font-weight: 900;
 `;
+
+export const BoldFont = styled.p`
+    font-weight: 900;
+`;
