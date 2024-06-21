@@ -7,4 +7,18 @@ export const MainCont = styled.div`
     width: 99.4vw;
 `;
 
-export const DayCont = styled.div``;
+export const DayCont = styled.div`
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+`;
+
+export const Advice = styled.div`
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 60px;
+    font-weight: 900;
+`;
